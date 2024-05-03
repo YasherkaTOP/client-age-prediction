@@ -25,8 +25,10 @@
 2. sklearn
 3. optuna
 4. catboost
+5. Pytorch-Lifestream (для второго варианта решения)
 
 ### Итог
 Baseline решение от организаторов имеет accuracy = 0.6119
 
-Моё решение имеет accuracy = 0.6277
+Моё обычное решение имеет accuracy = 0.6277
+С использованием Pytorch-LifeStream = 0.6092
